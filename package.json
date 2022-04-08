@@ -8,6 +8,8 @@
     "vite": "^2.9.0"
   },
   "scripts": {
-    "start": "npx vite --config vite.config.js form-validation/"
+    "start-form": "npx vite --config vite.config.js form-validation/",
+    "start-pokemon": "npx vite --config vite.config.js pokemon/"
+
   }
 }
