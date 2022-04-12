@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start-form": "npx vite --config vite.config.js form-validation/",
-    "start-pokemon": "npx vite --config vite.config.js pokemon/"
+    "start-pokemon": "npx vite --config vite.config.js pokemon/",
+    "start-composition": "npx vite --config vite.config.js composition/"
 
   }
 }
